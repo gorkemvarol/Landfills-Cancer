@@ -1,0 +1,12 @@
+Wed May 5th.
+
+Ok, so I did some research and what I did was deleted the "main" files back to baseline. 
+
+1. I did this by being in the main branch and pulling main locally.
+2. Then I deleted (git rm --r <file name>)- which removed the folders and the files in them.
+3. Then deleted (git rm <file name> any of the other files on the top level, i.e "test"
+4. Then did an git add-commit-push from my repo to the git repo
+5. Checked git repo and the "main" folder only has this file "What greg did.txt
+6. I double checked your branches and all seems to be fine. I did not do anything in your branches.
+
+I think that is it. 
